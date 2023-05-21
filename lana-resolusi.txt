@@ -1,0 +1,4 @@
+LANA RESOLUSI
+- Membuat web aplikasi guide ke beberapa file kebutuhan AR
+- Membuat web aplikasi yang bisa tracking progress pekerjaan AR
+- Membuat poster edukasi perpajakan ke Bendahara Desa
